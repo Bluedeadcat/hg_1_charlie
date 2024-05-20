@@ -1,5 +1,7 @@
 # hg_1_charlie
-Alfa		... Gustavo Peña
-Bravo		... Andrés Cuicas
-Charlie	... Edwuard Castañeda
-Delta		... Alona Even
+| Nombre | Ubicación |
+| --- | --- |
+| Gustavo Peña | Alfa |
+| Andrés Cuica | Bravo |
+| Edwuard Castañeda | Charlie |
+| Alondra Even | Delta |
