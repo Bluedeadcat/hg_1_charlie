@@ -4,4 +4,4 @@
 | Gustavo Peña | Alfa |
 | Andrés Cuica | Bravo |
 | Edwuard Castañeda | Charlie |
-| Alondra Even | Delta |
+| Alona Even | Delta |
