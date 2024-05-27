@@ -1,7 +1,11 @@
 # hg_1_charlie
-| Nombre | Ubicación |
-| --- | --- |
-| Gustavo Peña | Alfa |
-| Andrés Cuica | Bravo |
-| Edwuard Castañeda | Charlie |
-| Alondra Even | Delta |
+Este es el repositorio *alias* para el primer hack de Pull Request del team 9
+
+# ALIAS = Charlie
+
+# integrantes del team 9:
+
+- [ ] Alfa / Gustavo
+- [ ] Bravo / Andres
+- [X] Charlie / Edwuard
+- [ ] Delta / Alona
